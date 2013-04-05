@@ -1,0 +1,5 @@
+# Location of IGI test ca certificates
+CERT_DIR="/usr/share/igi-test-ca"
+
+# VO under test
+export vo_name="vo.7"
