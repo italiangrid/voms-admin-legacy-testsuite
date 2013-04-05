@@ -1,5 +1,5 @@
 #!/bin/bash
-source ../config
+source config
 
 export USER="$CERT_DIR/test0.cert.pem"
 export USER1="$CERT_DIR/test1.cert.pem"
